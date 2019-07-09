@@ -1,2 +1,2 @@
-# Dino
-Clone of chrome dino game
+# Bounce
+Bounce game in JS
